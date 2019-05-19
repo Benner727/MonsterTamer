@@ -1,0 +1,8 @@
+1 "Leader Jebediah" 13,12 16,14
+2 "Leader Gary" 15,20 20,23
+3 "Leader Andy" 6,27 4,24 11,30
+4 "Leader Jose" 6,32 13,37 6,37
+5 "Leader Nick" 7,47 8,49 11,47 7,53
+6 "Leader George" 14,48 5,47 10,48 17,53
+7 "Leader Larry" 19,52 9,50 19,52 9,57
+8 "Leader Sarah" 8,55 9,52 12,54 15,55 18,60

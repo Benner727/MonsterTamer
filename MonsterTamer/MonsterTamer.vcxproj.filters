@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Definitions">
+      <UniqueIdentifier>{5e005326-e7c6-4ca2-ac1a-cdb0f75a86dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Definitions">
+      <UniqueIdentifier>{30d2ba1b-9685-4c6f-91a8-76156165a958}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Combat">
+      <UniqueIdentifier>{0520bad6-8128-4837-9924-bdfd8907e98f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Combat">
+      <UniqueIdentifier>{48ade9f1-54db-4eec-b708-32be0dcd3560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Combat\Battle">
+      <UniqueIdentifier>{e5407c60-e6eb-4699-860e-30c4e56fd91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Player">
+      <UniqueIdentifier>{ccd94e3a-2f05-487d-a061-76a4bbf88676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{eebd8ea6-3461-488d-866a-610c42ec3486}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ability.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="Element.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="Passive.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="Species.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="Fighter.cpp">
+      <Filter>Source Files\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="Combatant.cpp">
+      <Filter>Source Files\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="DamageFormula.cpp">
+      <Filter>Source Files\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleActions.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleAttack.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleEffects.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleInterface.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleKill.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Party.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Tamer.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerFactory.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Zone.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="Guild.cpp">
+      <Filter>Source Files\Definitions</Filter>
+    </ClCompile>
+    <ClCompile Include="BattlePassives.cpp">
+      <Filter>Source Files\Combat\Battle</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AssetManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ability.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Element.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Passive.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Species.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Fighter.h">
+      <Filter>Header Files\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>Header Files\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="Combatant.h">
+      <Filter>Header Files\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleInterface.h">
+      <Filter>Header Files\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="DamageFormula.h">
+      <Filter>Header Files\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Party.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Tamer.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerFactory.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Zone.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Guild.h">
+      <Filter>Header Files\Definitions</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

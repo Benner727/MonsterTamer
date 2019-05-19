@@ -1,0 +1,74 @@
+﻿  Ability.cpp
+  AssetManager.cpp
+  Battle.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battle.cpp(173): warning C4018: '<': signed/unsigned mismatch
+  BattleActions.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleactions.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  BattleAttack.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleattack.cpp(51): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleattack.cpp(89): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleattack.cpp(122): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleattack.cpp(128): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  BattleEffects.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleeffects.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleeffects.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleeffects.cpp(448): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleeffects.cpp(457): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BattleInterface.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleinterface.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleinterface.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleinterface.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battleinterface.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  BattleKill.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battlekill.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battlekill.cpp(91): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battlekill.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battlekill.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  BattlePassives.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battlepassives.cpp(60): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\battlepassives.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Combatant.cpp
+  DamageFormula.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\damageformula.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\damageformula.cpp(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\damageformula.cpp(52): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\damageformula.cpp(54): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\damageformula.cpp(55): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\damageformula.cpp(65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Element.cpp
+  Fighter.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\fighter.cpp(80): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\fighter.cpp(82): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\fighter.cpp(92): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\fighter.cpp(94): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\fighter.cpp(104): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\fighter.cpp(106): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Guild.cpp
+  Inventory.cpp
+  Item.cpp
+  main.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\main.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Map.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\map.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\map.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\map.cpp(276): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\map.cpp(381): warning C4018: '<': signed/unsigned mismatch
+  Monster.cpp
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\monstertamer\monstertamer\monster.cpp(116): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Party.cpp
+  Generating Code...
+  Compiling...
+  Passive.cpp
+  PlayerFactory.cpp
+  Species.cpp
+  Tamer.cpp
+  Zone.cpp
+  Generating Code...
+     Creating library C:\Users\2339695\Desktop\Stephen Benner\Games\MonsterTamer\Debug\MonsterTamer.lib and object C:\Users\2339695\Desktop\Stephen Benner\Games\MonsterTamer\Debug\MonsterTamer.exp
+  MonsterTamer.vcxproj -> C:\Users\2339695\Desktop\Stephen Benner\Games\MonsterTamer\Debug\MonsterTamer.exe

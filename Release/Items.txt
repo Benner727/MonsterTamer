@@ -1,0 +1,12 @@
+1 "Bait" 200 0x1000 1
+2 "Potion" 300 0x0001 1000
+3 "Super Potion" 700 0x0001 2500
+4 "Hyper Potion" 1200 0x0001 5000
+5 "Max Potion" 2500 0x0001 7500
+6 "Full Restore" 3000 0xF81 15000
+7 "Antidote" 100 0x0100 1
+8 "Parlyz Heal" 200 0x0400 1
+9 "Awakening" 250 0x0080 1
+10 "Burn Heal" 250 0x0200 1
+11 "Ice Heal" 250 0x0800 1
+12 "Full Heal" 600 0xF80 1
